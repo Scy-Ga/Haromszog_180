@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\bin\Debug\HaromszogII.exe.config
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\bin\Debug\HaromszogII.exe
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\bin\Debug\HaromszogII.pdb
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII_MarkupCompile.cache
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII_MarkupCompile.lref
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.g.resources
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.Properties.Resources.resources
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.exe
+C:\Users\user\Desktop\Munka\HaromszogII\HaromszogII\obj\Debug\HaromszogII.pdb
